@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is hamedbagheri
 #### Web Design and Develpopment .
-![Web Design and Develpopment](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Design and Develpopment](https://biaupload.com/do.php?imgf=org-66346cf1392c1.jpg)
 
 I really enjoy learning languages and framworks like React and Next.js , as work in frontEnd stack .
 
