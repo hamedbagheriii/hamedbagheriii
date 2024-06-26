@@ -4,7 +4,7 @@
 
 I really enjoy learning languages and framworks like React and Next.js , as work in frontEnd stack .
 
-Skills: REACT/ NEXT / BOOTSTRAP / JS / HTML / CSS
+Skills : REACT/ NEXT / BOOTSTRAP / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page . 
 - 🌱 I’m currently learning React and Next . 
