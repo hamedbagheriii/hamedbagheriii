@@ -4,10 +4,10 @@
 
 I really enjoy learning languages and framworks like React and Next.js , as work in frontEnd stack .
 
-Skills : REACT / NEXT / BOOTSTRAP / SASS / JS / HTML / CSS
+Skills : REACT / PWA / BOOTSTRAP / SASS / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page . 
-- 🌱 I’m currently learning React and Next . 
+- 🌱 I’m currently learning React and PWA . 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hamedbagheriii)  
