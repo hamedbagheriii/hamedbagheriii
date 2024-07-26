@@ -2,7 +2,7 @@
 #### Web Design and Develpopment .
 ![Web Design and Develpopment](https://biaupload.com/do.php?imgf=org-66346cf1392c1.jpg)
 
-I really enjoy learning languages and framworks like React and Next.js , as work in frontEnd stack .
+I really enjoy learning languages and framworks like React and TypeScript , as work in frontEnd stack .
 
 Skills : REACT / TYPESCRIPT / BOOTSTRAP / SASS / JS / HTML / CSS
 
