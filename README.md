@@ -9,7 +9,7 @@ Skills : REACT / TYPESCRIPT / BOOTSTRAP / SASS / JS / HTML / CSS
 - 🔭 I’m currently working on this page . 
 - 🌱 I’m currently learning TypeScript and Next . 
 
-
+ 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hamedbagheriii)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamedbagheriii&show_icons=true) 
