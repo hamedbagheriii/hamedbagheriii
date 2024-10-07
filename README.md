@@ -7,7 +7,7 @@ I really enjoy learning languages and framworks like React and TypeScript , as w
 Skills : REACT / TYPESCRIPT / BOOTSTRAP / SASS / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page . 
-- 🌱 I’m currently learning TypeScript and Next . 
+- 🌱 I’m currently learning Next and Tailwind . 
 
  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hamedbagheriii)  
