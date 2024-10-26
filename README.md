@@ -4,14 +4,14 @@
 
 I really enjoy learning languages and framworks like React and TypeScript , as work in frontEnd stack .
 
-Skills (Front-end) : 
+🎯 Skills (Front-End) : 
 
 NEXT / REACT / TYPESCRIPT / TAILWIND / BOOTSTRAP / SASS / JS / CSS / HTML 
 
 
 
 
-Skills (Back-end) : 
+🎯 Skills (Back-End) : 
 
 BUN JS / ELYSIA JS / PRISMA JS / SQL
 
