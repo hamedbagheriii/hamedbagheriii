@@ -4,11 +4,16 @@
 
 I really enjoy learning languages and framworks like React and TypeScript , as work in frontEnd stack .
 
-Skills (Front-end) : NEXT / REACT / TYPESCRIPT / TAILWIND / BOOTSTRAP / SASS / JS / CSS / HTML 
+Skills (Front-end) : 
+
+NEXT / REACT / TYPESCRIPT / TAILWIND / BOOTSTRAP / SASS / JS / CSS / HTML 
 
 
 
-Skills (Back-end) : BUN JS / ELYSIA JS / PRISMA JS / SQL
+
+Skills (Back-end) : 
+
+BUN JS / ELYSIA JS / PRISMA JS / SQL
 
 - 🔭 I’m currently working on this page . 
 - 🌱 I’m currently learning PrismaJs And Tailwind . 
