@@ -16,7 +16,7 @@ NEXT / REACT / TYPESCRIPT / TAILWIND / BOOTSTRAP / SASS / JS / CSS / HTML
 BUN JS / ELYSIA JS / PRISMA JS / SQL
 
 - 🔭 I’m currently working on this page . 
-- 🌱 I’m currently learning PrismaJs And Tailwind . 
+- 🌱 I’m currently learning Elysia Js . 
 
  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hamedbagheriii)  
