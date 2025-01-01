@@ -15,7 +15,7 @@ NEXT / REACT / TYPESCRIPT / TAILWIND / BOOTSTRAP / SASS / JS / CSS / HTML
 
 BUN JS / ELYSIA JS / PRISMA JS / SQL
 
-- 🔭 I’m currently working on this page : https://cinama.tarino.com . 
+- 🔭 I’m currently working on this page : https://cinama.tarino.net . 
 - 🌱 I’m currently learning Elysia . 
 
  
